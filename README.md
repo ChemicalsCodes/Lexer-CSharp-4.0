@@ -3,7 +3,7 @@ A lexical analyzer for C# 4.0
 
 A Lexical analyzer generated with LexGen, so you don't have to generate your own.
 
-Please, make sure to check the other amazing chemicals ;)
+Please, make sure to check the other chemicals.
 
 Usage :
 ___________________________________________________________________________________________________________________________
